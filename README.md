@@ -4,13 +4,6 @@ Analisi spaziale e statistica della relazione tra spopolamento demografico e dif
 
 ---
 
-## 🗺️ Dashboard interattive
-
-👉 [Dashboard Progetto Rinnovabili](https://sportbusinesslabconsultancy.github.io/Analisi_Spopolamento_Energia_Rinnovabile/Dashboard_Progetto_Rinnovabili_EsriGray.html)
-
-👉 [Dashboard Cluster SBL](https://sportbusinesslabconsultancy.github.io/Analisi_Spopolamento_Energia_Rinnovabile/Dashboard_SBL_Cluster_EsriGray.html)
-
----
 
 ## 📌 Descrizione
 
@@ -78,10 +71,10 @@ Analisi_Spopolamento_Energia_Rinnovabile/
 ├── README.md
 ├── Script1_Importazione_dati_e_mappa.R
 ├── Script_2_Analisi_Statistica.R
-├── Dashboard_Progetto_Rinnovabili_EsriGray.html
-├── Dashboard_SBL_Cluster_EsriGray.html
 └── Analisi_dello_spopolamento_in_rapporto_all_energia_rinnovabile.pdf
 ```
+
+> ⚠️ Le dashboard interattive HTML non sono incluse nel repository per ragioni di dimensione (file >40MB).
 
 > ⚠️ I dati grezzi (shapefile comunali, dataset ISTAT, database FER) non sono inclusi nel repository per ragioni di dimensione. Le fonti sono indicate nella sezione Dati.
 
@@ -93,6 +86,12 @@ Analisi_Spopolamento_Energia_Rinnovabile/
 |-------|-------------|
 | [ISTAT](https://www.istat.it) | Serie storiche demografiche comunali 2001–2021, shapefile confini comunali |
 | [GSE](https://www.gse.it) | Database impianti FER — eolico, fotovoltaico, idroelettrico (coordinate e potenza MW) |
+
+---
+
+## 🔗 Link utili
+
+- 🌐 [Sport Business Lab Consultancy](https://www.sblconsultancy.it/)
 
 ---
 
